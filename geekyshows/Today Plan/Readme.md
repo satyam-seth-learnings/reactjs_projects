@@ -1,6 +1,4 @@
 [Youtube Video Link](https://www.youtube.com/watch?v=J5wFvPGxP4I)
 
 
-https://user-images.githubusercontent.com/63374020/215306115-5a3b8a90-0795-483b-a74f-0e12b9e6121f.mp4
-
-
+<img width="1119" alt="image" src="https://user-images.githubusercontent.com/63374020/215310349-df987497-8227-4321-be80-f9b051a1758f.png">
