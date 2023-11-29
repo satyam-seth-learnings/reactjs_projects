@@ -10,3 +10,9 @@
 - Install [tailwindcss-animate](https://www.npmjs.com/package/tailwindcss-animate) tailwind plugin as dev dependency
 
 - Install [react-router-dom](https://www.npmjs.com/package/react-router-dom) for routing
+
+- [Setup Shadcn with vite](https://ui.shadcn.com/docs/installation/vite)
+
+- [React Hook Form Doc Link](https://react-hook-form.com/)
+
+- [Zod Doc Link](https://zod.dev/)
