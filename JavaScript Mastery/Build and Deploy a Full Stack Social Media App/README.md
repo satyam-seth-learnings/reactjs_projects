@@ -16,3 +16,7 @@
 - [React Hook Form Doc Link](https://react-hook-form.com/)
 
 - [Zod Doc Link](https://zod.dev/)
+
+- [Appwright Doc Link](https://appwrite.io/)
+
+- Install [appwright](https://www.npmjs.com/package/appwrite)
