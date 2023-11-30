@@ -20,3 +20,9 @@
 - [Appwright Doc Link](https://appwrite.io/)
 
 - Install [appwright](https://www.npmjs.com/package/appwrite)
+
+- Add file `.env.local` -
+    ```
+    VITE_APPWRITE_PROJECT_ID='project-id'
+    VITE_APPWRITE_URL='https://cloud.appwrite.io/v1'
+    ```
