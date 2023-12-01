@@ -23,6 +23,11 @@
 
 - Add file `.env.local` -
     ```
-    VITE_APPWRITE_PROJECT_ID='project-id'
     VITE_APPWRITE_URL='https://cloud.appwrite.io/v1'
+    VITE_APPWRITE_PROJECT_ID='project-id-JSM_Snapgram'
+    VITE_APPWRITE_STORAGE_ID='storage-id-media'
+    VITE_APPWRITE_DATABASE_ID='database-id-spangram'
+    VITE_APPWRITE_USER_COLLECTION_ID='collection-id'
+    VITE_APPWRITE_SAVES_COLLECTION_ID='collection-id'
+    VITE_APPWRITE_POST_COLLECTION_ID='collection-id'
     ```
