@@ -31,3 +31,7 @@
     VITE_APPWRITE_SAVES_COLLECTION_ID='collection-id'
     VITE_APPWRITE_POST_COLLECTION_ID='collection-id'
     ```
+
+- [React Query Doc Link](https://tanstack.com/query/latest)
+
+- Install [React Query](https://www.npmjs.com/package/@tanstack/react-query)
