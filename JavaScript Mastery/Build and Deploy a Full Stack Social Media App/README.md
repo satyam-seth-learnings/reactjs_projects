@@ -37,3 +37,5 @@
 - Install [React Query](https://www.npmjs.com/package/@tanstack/react-query)
 
 - Install [React Dropzone](https://www.npmjs.com/package/react-dropzone)
+
+- Install [React Intersection Observer](https://www.npmjs.com/package/react-intersection-observer)
