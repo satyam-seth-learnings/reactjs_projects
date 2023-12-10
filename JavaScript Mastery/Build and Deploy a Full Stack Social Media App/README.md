@@ -35,3 +35,5 @@
 - [React Query Doc Link](https://tanstack.com/query/latest)
 
 - Install [React Query](https://www.npmjs.com/package/@tanstack/react-query)
+
+- Install [React Dropzone](https://www.npmjs.com/package/react-dropzone)
