@@ -1,5 +1,7 @@
 [YouTube Video Link](https://youtu.be/_W3R2VwRyF4?si=M0u_lLOr2bYUTNta)
 
+[Repository for Doployment](https://github.com/satyam-seth-learnings/snapgram_reactjs_deploy)
+
 - Create react project using [vite](https://vitejs.dev/guide/) -
     ```bash
     npm create vite@latest
