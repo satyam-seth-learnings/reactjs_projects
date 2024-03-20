@@ -1,0 +1,1 @@
+[Joke API](https://jokeapi.dev/)
