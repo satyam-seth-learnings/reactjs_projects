@@ -1,0 +1,1 @@
+[Idea Link](https://www.geeksforgeeks.org/create-a-password-validator-using-reactjs/)
